@@ -1,4 +1,4 @@
-# PLEASE PIP INSTALL PSYCOPG2-BINARY BECUASE OF OUR POSTGRES DB UNLESS THIS WILL NOT RUN
+# PLEASE pip install psycopg2-binary BECUASE OF OUR POSTGRES DB UNLESS THIS FILE WILL THROW AN ERROR
 
 #parsing the data of colour of clothes worn on each weekday from our html file to a dictionary
 data = {
